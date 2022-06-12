@@ -101,25 +101,19 @@
 	  </div>
  
 
- <iframe width="560" height="315" src="https://www.youtube.com/embed/DAKm6x-h2B0" title="YouTube video player" frameborder="0" 
-			allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-			  
+ 			  <iframe width="560" height="315" src="https://www.youtube.com/embed/59MJfJPP5eo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 			  <div class="box-img">
-			  <h1>Spider-Man:No Way Home</h1>
-		<img src ="https://www.athinorama.gr/Content/ImagesDatabase/8f/8f953b51684a42a59527a8104b17aabd.jpg " alt="" style="width:150px;height:308px;" ><br>
+			  <h1>The Bad Guys</h1>
+			  <img src="https://www.athinorama.gr/Content/ImagesDatabase/67/6799f54005284ab0bdcc22e1827b616d.jpg">
+
 			  <center>Περίληψη</center>
-			  <p>Η ταυτότητά του Spider-Man αποκαλύπτεται, φέρνοντας τις ευθύνες του ως Super Hero σε πόλεμο με την κανονικότητα στη ζωή του και θέτοντας αυτούς που αγαπά περισσότερο σε κίνδυνο. 
-			  Όταν απευθύνεται στον Δρ. Strange να τον βοηθήσει με την αποκατάσταση του μυστικού του,
-			  το ξόρκι ανοίγει μια πόρτα στον κόσμο που επιτρέπει να ελευθερωθούν οι πιο δυνατοί εχθροί που έχει αντιμετωπίσει ποτέ ο Spider-Man σε κάθε σύμπαν. 
-			  Τώρα, ο Πίτερ πρέπει να ξεπεράσει την πιο μεγάλη πρόκληση, που θα αλλάξει για πάντα το δικό του αλλά και το μέλλον του Πολυσύμπαντος.</p>
+			  <p>Δεν έχει υπάρξει ποτέ άλλη παρέα πέντε φίλων τόσο κακόφημη όσο αυτή των «Κακών Παιδιών» - ο τολμηρός πορτοφολάς Mr. Wolf, ο έμπειρος διαρρήκτης χρηματοκιβωτίων Mr. Snake, ο χαλαρός άρχοντας της μεταμφίεσης Mr. Shark, ο ευέξαπτος νταής Mr. Piranha και η ετοιμόλογη χάκερ Ms. Tarantula.
+			  Αλλά όταν ύστερα από αμέτρητες ληστείες μέσα στα χρόνια και παρουσία στη λίστα με τους πιο καταζητούμενους κακοποιούς η συμμορία τελικά συλλαμβάνεται, ο Mr. Wolf κάνει μια συμφωνία (την οποία δεν έχει πρόσθεση να τηρήσει) προκειμένου να γλυτώσουν τη φυλακή: Τα Κακά Παιδιά θα γίνουν καλά! 
+			  Υπό την κηδεμονία του μέντορά τους, του καθηγητή Marmalade, ένα αλαζονικό (αλλά αξιολάτρευτο!) πειραματόζωο, τα Κακά Παιδιά ξεκινούν να ξεγελάσουν τον κόσμο προσποιούμενα πως έχουν μεταμορφωθεί!
+			  Στην πορεία, ωστόσο, ο Mr. Wolf αρχίζει και συνειδητοποιεί ότι πράττοντας το καλό, του προσφέρει αυτό που πάντα αποζητούσε: την αποδοχή των άλλων. 
+			  Έτσι, λοιπόν, όταν ένας νέος κακός απειλεί την πόλη, μπορεί ο Mr. Wolf να πείσει την υπόλοιπη συμμορία να γίνουν…. Καλά Παιδιά;
+			  </p>
 			</div>
-			<div class="video-container">
-			   <div class="video-box">
-			   <!--link site hdvid.tv -->
-			<iframe SRC="https://hdvid.tv/embed-g51fdltxko42.html"FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGTH=0 SCROLLING
-			allowfullscreen="true" WIDTH= 950 HEIGHT=480></iframe>
-			</div>
-			 </div>
             <div class="comments-box">
 			<h1>Comments</h1>
 			 <form action="#">

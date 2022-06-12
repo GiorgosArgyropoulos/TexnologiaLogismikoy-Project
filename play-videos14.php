@@ -99,35 +99,28 @@
 	  class="input">
 	  <button type="submit" class="button" ><i class="bx bx-search"></i></button>
 	  </div>
- <div class="box">
+ 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aWzlQ2N6qqg" title="YouTube video player" frameborder="0"
+ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 			  <div class="box-img">
-			  <iframe width="560" height="315" src="https://www.youtube.com/embed/QwievZ1Tx-8" title="YouTube video player" frameborder="0"  
-			  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-			  
-			  <h1>Avengers:Infinity War</h1>
+   			  <img src="https://www.villagecinemas.gr/ImageGen.ashx?image=/media/1780888/poster.jpg&width=254&Constrain=true">      
+			  <h1>Doctor Strange in the Multiverse of Madness</h1>
 			  <h1>Περίληψη</h1>
-			  <p>Το Avengers: Infinity War συνεχίζει μετά τα τραγικά γεγονότα για την ομάδα, τα οποία διαδραματίστηκαν στο Captain America: Civil War.
-			  Οι Avengers τώρα θα ενώσουν δυνάμεις με τους Guardians of the Galaxy με σκοπό να πολεμήσουν τον Thanos τον νέο υπέρτατο εχθρό. 
-			  Ο Thanos θα προσπαθήσει να συσσωρεύσει τις Infinity Stones σε ένα γάντι και οι Avengers θα κληθούν να αντιμετωπίσουν την κυριαρχία του στο διάστημα, τον χρόνο αλλά και την ίδια την πραγματικότητα!</p>
+			  <p>Μετά τα γεγονότα που ακολούθησαν το AVENGERS: ENDGAME, o Dr. Stephen Strange συνεχίζει να αναζητά την Time Stone. 
+			  H συνάντηση με ένα φίλο από τα παλιά – που όμως πλέον μετατράπηκε σε εχθρό – θα τον φέρει αντιμέτωπο με το ανείπωτο κακό.
+              Καθώς ο Doctor Strange κάνει ένα συναρπαστικό, πολυδιάστατο ταξίδι σε διαφορετικά σύµπαντα και διασχίζει παράξενες και επικίνδυνες εναλλακτικές πραγµατικότητες µαζί µε παλιούς και νέους συµµάχους, ένας µυστηριώδης νέος αντίπαλος τον περιµένει.
+			  </p>
 			</div>
-			</div>
-			<div class="video-container">
-			   <div class="video-box">
-			   <!--link site hdvid.tv -->
-			<iframe SRC="https://hdvid.tv/embed-tvk45tr14qk8.html"FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGTH=0 SCROLLING
-			allowfullscreen="true" WIDTH= 950 HEIGHT=480></iframe>
-			</div>
-			 </div>
+			
             <div class="comments-box">
 			<h1>Comments</h1>
 			 <form action="#">
-			  <input type="text" name="full_name" placeholder="FullName">
-			  <input type="email" name="email" placeholder="Email">
+			  <input type="text" name="full_name" placeholder="">
+			  <input type="email" name="email" placeholder="">
 			  <textarea name="comment" id="" cols="30" row="" placeholder=""></textarea>
                 <button type="submit">Submit Comment</button>
 			 </form>
 			</div>
 		</center>	
-			</body>
-			</html>
-			
+		
+		</html>

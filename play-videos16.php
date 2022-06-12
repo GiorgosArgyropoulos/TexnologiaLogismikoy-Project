@@ -99,30 +99,26 @@
 	  class="input">
 	  <button type="submit" class="button" ><i class="bx bx-search"></i></button>
 	  </div>
- <div class="box">
+ 
+
+ 			  <iframe width="560" height="315" src="https://www.youtube.com/embed/59MJfJPP5eo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 			  <div class="box-img">
-			  <iframe width="560" height="315" src="https://www.youtube.com/embed/QwievZ1Tx-8" title="YouTube video player" frameborder="0"  
-			  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-			  
-			  <h1>Avengers:Infinity War</h1>
-			  <h1>Περίληψη</h1>
-			  <p>Το Avengers: Infinity War συνεχίζει μετά τα τραγικά γεγονότα για την ομάδα, τα οποία διαδραματίστηκαν στο Captain America: Civil War.
-			  Οι Avengers τώρα θα ενώσουν δυνάμεις με τους Guardians of the Galaxy με σκοπό να πολεμήσουν τον Thanos τον νέο υπέρτατο εχθρό. 
-			  Ο Thanos θα προσπαθήσει να συσσωρεύσει τις Infinity Stones σε ένα γάντι και οι Avengers θα κληθούν να αντιμετωπίσουν την κυριαρχία του στο διάστημα, τον χρόνο αλλά και την ίδια την πραγματικότητα!</p>
+			  <h1>Firestarter</h1>
+					  <img src="https://dvvy6louqcr7j.cloudfront.net/vista/HO00013523/heroPoster/Firestarter.png">
+			  <center>Περίληψη</center>
+			  <p>Για περισσότερο από δέκα χρόνια οι γονείς της, ο Άντι και η Βίκυ ζουν μια διαρκή καταδίωξη, απελπισμένοι να κρύψουν την κόρη τους, 
+			  Τσάρλι από μια σκιώδη Ομοσπονδιακή Υπηρεσία που θέλει να εκμεταλλευτεί το πρωτοφανές χάρισμά της για τη δημιουργία πυρκαγιάς σαν χρήση όπλου μαζικής καταστροφής.
+			  Ο Άντι έχει διδάξει την Τσάρλι διάφορους τρόπους με τους οποίους μπορεί να εκτονώνει τη δύναμή της, η οποία προκαλείται από θυμό ή από πόνο. 
+			  Αλλά καθώς η Τσάρλι γίνεται 11, ο έλεγχος της φωτιάς γίνεται ολοένα και πιο δύσκολη υπόθεση. 
+			  Ύστερα από ένα περιστατικό που αποκαλύπτει την τοποθεσία που κρύβεται η οικογένεια, ένας μυστηριώδης πράκτορας αναλαμβάνει την αποστολή να κυνηγήσει την οικογένεια και να παγιδεύσει την Τσάρλι μια για πάντα. 
+			  Η Τσάρλι όμως έχει διαφορετικά σχέδια.
+			  </p>
 			</div>
-			</div>
-			<div class="video-container">
-			   <div class="video-box">
-			   <!--link site hdvid.tv -->
-			<iframe SRC="https://hdvid.tv/embed-tvk45tr14qk8.html"FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGTH=0 SCROLLING
-			allowfullscreen="true" WIDTH= 950 HEIGHT=480></iframe>
-			</div>
-			 </div>
             <div class="comments-box">
 			<h1>Comments</h1>
 			 <form action="#">
-			  <input type="text" name="full_name" placeholder="FullName">
-			  <input type="email" name="email" placeholder="Email">
+			  <input type="text" name="full_name" placeholder="">
+			  <input type="email" name="email" placeholder="">
 			  <textarea name="comment" id="" cols="30" row="" placeholder=""></textarea>
                 <button type="submit">Submit Comment</button>
 			 </form>
@@ -130,4 +126,3 @@
 		</center>	
 			</body>
 			</html>
-			

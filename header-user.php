@@ -47,9 +47,9 @@
         <a  href="#home" class="home-active">Home</a></li>
 	  <li><a class = "mov-link" href="#movies">Movies</a></li>
 	  <li><a href="#coming">Coming</a></li>
-      <li><a  href="seats.php">Buy Tickets </a></li>
+      <li><a  href="register-admin.php">Register Admin</a></li>
 	  </ul>
-      <li><a class="btn btn-outline danger" href="login.php">Logout</a></li>
+      <li><a class="btn btn-outline danger" href="login.php">Login</a></li>
 	  <li>
 	  <div class ="search-container">
 	  <form>

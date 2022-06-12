@@ -99,35 +99,32 @@
 	  class="input">
 	  <button type="submit" class="button" ><i class="bx bx-search"></i></button>
 	  </div>
- <div class="box">
+ 
+<!--link youtube-->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vKQi3bBA1y8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 			  <div class="box-img">
-			  <iframe width="560" height="315" src="https://www.youtube.com/embed/QwievZ1Tx-8" title="YouTube video player" frameborder="0"  
-			  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-			  
-			  <h1>Avengers:Infinity War</h1>
+			<h1>Matrix</h1>
+			<img src="https://www.athinorama.gr/lmnts/events/cinema/1006015/poster.jpg?w=500&h=600&mode=pad&bgcolor=191919">
+			 
 			  <h1>Περίληψη</h1>
-			  <p>Το Avengers: Infinity War συνεχίζει μετά τα τραγικά γεγονότα για την ομάδα, τα οποία διαδραματίστηκαν στο Captain America: Civil War.
-			  Οι Avengers τώρα θα ενώσουν δυνάμεις με τους Guardians of the Galaxy με σκοπό να πολεμήσουν τον Thanos τον νέο υπέρτατο εχθρό. 
-			  Ο Thanos θα προσπαθήσει να συσσωρεύσει τις Infinity Stones σε ένα γάντι και οι Avengers θα κληθούν να αντιμετωπίσουν την κυριαρχία του στο διάστημα, τον χρόνο αλλά και την ίδια την πραγματικότητα!</p>
-			</div>
+			  <p>Ο προγραμματιστής υπολογιστών Τόμας Άντερσον ζει μια μυστική ζωή ως χάκερ υπό το ψευδώνυμο «Νίο». 
+			  Αινιγματικά μηνύματα που εμφανίζονται στον υπολογιστή του και μια περιπέτεια με κυβερνητικούς πράκτορες τον οδηγεί σε μια ομάδα που καθοδηγείται από τον μυστηριώδη Μορφέα, ένα άτομο που του προσφέρει την δυνατότητα να μάθει την αλήθεια. 
+			  Ότι δηλαδή ο κόσμος στον οποίο ζει, δεν είναι παρά μία εικονική πραγματικότητα που ελέγχεται από μηχανές τεχνητής νουμοσύνης.</p>
 			</div>
 			<div class="video-container">
 			   <div class="video-box">
 			   <!--link site hdvid.tv -->
-			<iframe SRC="https://hdvid.tv/embed-tvk45tr14qk8.html"FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGTH=0 SCROLLING
+			<iframe SRC="https://hdvid.tv/embed-it7iregmcuns.html"FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGTH=0 SCROLLING
 			allowfullscreen="true" WIDTH= 950 HEIGHT=480></iframe>
 			</div>
 			 </div>
             <div class="comments-box">
 			<h1>Comments</h1>
 			 <form action="#">
-			  <input type="text" name="full_name" placeholder="FullName">
-			  <input type="email" name="email" placeholder="Email">
+			  <input type="text" name="full_name" placeholder="">
+			  <input type="email" name="email" placeholder="">
 			  <textarea name="comment" id="" cols="30" row="" placeholder=""></textarea>
                 <button type="submit">Submit Comment</button>
 			 </form>
 			</div>
 		</center>	
-			</body>
-			</html>
-			

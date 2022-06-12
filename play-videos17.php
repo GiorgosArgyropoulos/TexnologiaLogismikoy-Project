@@ -99,35 +99,28 @@
 	  class="input">
 	  <button type="submit" class="button" ><i class="bx bx-search"></i></button>
 	  </div>
- <div class="box">
+	  
+	  <!--link youtube-->
+                  <iframe width="560" height="315" src="https://www.youtube.com/embed/pZDP1bLSVtU" title="YouTube video player" frameborder="0" 
+				  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 			  <div class="box-img">
-			  <iframe width="560" height="315" src="https://www.youtube.com/embed/QwievZ1Tx-8" title="YouTube video player" frameborder="0"  
-			  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-			  
-			  <h1>Avengers:Infinity War</h1>
+			  <img src="https://m.media-amazon.com/images/M/MV5BMmIwZDMyYWUtNTU0ZS00ODJhLTg2ZmEtMTk5ZmYzODcxODYxXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg">
+			  <h1>Top Gun:Maverick</h1>
 			  <h1>Περίληψη</h1>
-			  <p>Το Avengers: Infinity War συνεχίζει μετά τα τραγικά γεγονότα για την ομάδα, τα οποία διαδραματίστηκαν στο Captain America: Civil War.
-			  Οι Avengers τώρα θα ενώσουν δυνάμεις με τους Guardians of the Galaxy με σκοπό να πολεμήσουν τον Thanos τον νέο υπέρτατο εχθρό. 
-			  Ο Thanos θα προσπαθήσει να συσσωρεύσει τις Infinity Stones σε ένα γάντι και οι Avengers θα κληθούν να αντιμετωπίσουν την κυριαρχία του στο διάστημα, τον χρόνο αλλά και την ίδια την πραγματικότητα!</p>
+			  <p>Με περισσότερα από τριάντα χρόνια υπηρεσίας ως ένας από τους καλύτερους πιλότους της αεροπορίας, ο Πιτ «Μάβερικ» Μίτσελ (Τομ Κρουζ) βρίσκεται εκεί όπου ανήκει, δουλεύοντας ως εκπαιδευτής πιλότων κι αποφεύγοντας την προαγωγή σε βαθμό που θα τον «προσγείωνε». 
+			  Όταν αναλάβει την εκπαίδευση μιας διμοιρίας αποφοίτων για μία εξιδεικευμένη αποστολή, όμοια της οποίας κανένας πιλότος δεν έχει συναντήσει, ο Μάβερικ συναντά τον Υποσμηναγό Μπράντλεϊ Μπράντσο (Μάιλς Τέλερ,«Χωρίς Μέτρο»), γιο του εκλιπόντα φίλου του Μάβερικ, Υποσμηναγού Νικ Μπράντσο.
+			  Απέναντι σε ένα αβέβαιο μέλλον, αλλά και φαντάσματα του παρελθόντος, ο Μάβερικ έρχεται αντιμέτωπος με τους βαθύτερους φόβους του, που αποκρυσταλλώνονται σε μια αποστολή η οποία απαιτεί την απόλυτη θυσία από όσους συμμετάσχουν σε αυτήν.</p>
 			</div>
-			</div>
-			<div class="video-container">
-			   <div class="video-box">
-			   <!--link site hdvid.tv -->
-			<iframe SRC="https://hdvid.tv/embed-tvk45tr14qk8.html"FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGTH=0 SCROLLING
-			allowfullscreen="true" WIDTH= 950 HEIGHT=480></iframe>
-			</div>
-			 </div>
+			
             <div class="comments-box">
 			<h1>Comments</h1>
 			 <form action="#">
-			  <input type="text" name="full_name" placeholder="FullName">
-			  <input type="email" name="email" placeholder="Email">
+			  <input type="text" name="full_name" placeholder="">
+			  <input type="email" name="email" placeholder="">
 			  <textarea name="comment" id="" cols="30" row="" placeholder=""></textarea>
                 <button type="submit">Submit Comment</button>
 			 </form>
 			</div>
 		</center>	
-			</body>
-			</html>
-			
+		
+		</html>

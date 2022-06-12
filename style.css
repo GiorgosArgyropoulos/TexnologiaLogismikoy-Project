@@ -23,69 +23,7 @@ body{
 section{
 	padding:4.5rem 0 1.5rem;
 }
-/*
-.search
-{
- position: relative;
- width: 60px;
- height: 60px;
- background:#fff;
- border-radius:60px;
- transition:0.5s;
- box-shadow:0 0 0 5px var(--text-color);
-}
-/*
-.search.icon{
-	position:absolute;
-	top:0;
-	left:0;
-	width:60px;
-	height:60px;
-	background:#fff;
-	border-radius:60px;
-	display:flex;
-	justify-content:center;
-	align-items:center;
-	z-index:1000;
-}
-.search.icon::before{
-	content:'';
-	position:absolute;
-	width:15px;
-	height:15px;
-	border:3px solid var(--main-color);
-	border-radius:50%;
-		transform:translate(-4px,-4px) ;
-}
 
-.search.icon::after{
-	content:'';
-	position:absolute;
-	width:3px;
-	height:12px;
-	background: var(--main-color);
-	transform:translate(6px,6px) rotate(315deg);
-}
-.search{
-	width:100%;
-	min-height:100vh;
-	padding:5%;
-	background-color:var(--bg-color);
-	background-position:center;
-	background-size:cover;
-	display:flex;
-	align-items:center;
-	justify-content:center;
-}
-.search.icon{
-	width:100%;
-	max-width:700px;
-	background:var(--text-color);
-	display:flex;
-	align-items:center;
-	border-radius:60px;
-	padding:10px 20px;
-}*/
 header{
 	position:fixed;
 	width:100%;
@@ -274,3 +212,65 @@ column-gap:0.5rem;
 	margin-right:auto;
 	margin-top:2rem;
 }
+
+/*
+.swiper-slide container{
+	width:400px;
+	background:#111;
+	padding:20px 30px;
+	border:1px solid #444;
+	border-radius:5px;
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	flex-direction:column;
+}
+
+.swiper-slide container.home-text {
+	display:none;
+}
+.star-widget label
+{
+	font-size:40px;
+	color:#444;
+	padding:10px;
+	float:right;
+	transition: all 0.2s ease;
+}
+input:not(:checked)~label:hover,
+input:not(:checked)~label:hover~label{
+	color:#fd4;
+}
+input:checked~label{
+	color:#fd4;
+}
+input#rate-5:checked~label{
+	color:#fe7;
+	text-shadow:0 0 20px #952;
+}*/
+/*
+.star-widget{
+	position:absolute;
+	top:50;
+	left:50;
+	transform:translate(-50%,-50%);
+	display:flex;
+}
+.star-widget input{
+	display:none;
+}
+
+.star-widget label{
+	display:block;
+	cursor:pointer;
+	width:50px;
+	background:#ccc;
+}
+.star-widget label:before{
+	content:'\f005';
+	font-family:fontAwesome;
+	position:relative;
+	display:block;
+	font-size:50px;
+	color:#yellow;
+}*/

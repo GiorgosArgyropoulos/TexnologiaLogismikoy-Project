@@ -42,7 +42,6 @@
 </html>
 <?php
 if (isset($_POST['submit'])){
-    @include_once ('db.php');
 	$uname =$_POST['uname'];
 	$pwd =$_POST['pwd'];
 	if($uname){
@@ -50,7 +49,8 @@ if (isset($_POST['submit'])){
 	}
 	$hash = password_hash('$pwd',PASSWORD_BCRYPT);
 	
-	$query ="INSERT INTO 'admin'('uname','pwd') VALUES ('$uname','$hash')";
+	$query ="INSERT INTO 'registereduser'('firstName','lastName','email','password') 
+	VALUES ('$firstName','$lastName','$email','$password')";
     $run =mysqli_query($con,$query);
 	if($run){
 		echo "admin added";

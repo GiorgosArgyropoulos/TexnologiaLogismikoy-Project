@@ -43,9 +43,29 @@
 	 <a href="#" class="text">Forgot password?</a>
 	 </div>
 	 <div class ="input-field button">
-  <button type="submit" name="submit" class="btn btn-primary" href="header.php">Login Now</button>
+  <button type="submit" class="btn btn-primary" href="header.php">Login Now</button>
   <p><span class="account"><center>Not have an account?<a href="register-admin.php">Register Here</a></center></p>
 </form>
 
 </div>
-
+ <?php
+              if (isset($_POST['Log In'])){
+		     $email=$_POST['email'];
+			 $password=$_POST['password'];
+	      
+		     if($email&&$password){ 
+		  //connect with database
+		  mysql_connect("localhost","root","");
+		  mysql_select_db("fullmoviesonline");
+		  
+		  $result=mysql_query("select * from registereduser where email='$email' and password='$password'")
+		         or die("Failed to query database".mysql_error());
+		   $row = mysql_fetch_array($result);
+		   if($row['email']==$email && $row['password']==$password){
+			   echo "Login success!!" .$row['email'];
+		   }else{
+			   echo "failed Login";
+		   }
+			 }
+			  }
+		 ?>
